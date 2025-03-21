@@ -7,7 +7,7 @@ const { contrast } = require('color-contrast'); // Para verificação de contras
 // Configurações
 const REPORT_FILE = 'site-analysis-report.txt';
 const MAX_IMAGE_SIZE_KB = 100; // Tamanho máximo de imagem permitido (em KB)
-const SITE_URL = 'cheffycooking.netlify.app'; // Substitua pela URL do site
+const SITE_URL = 'https://wacom.com.br/'; // Substitua pela URL do site
 
 // Utilitários
 function logError(message) {
